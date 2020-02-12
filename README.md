@@ -1,1 +1,1 @@
-# MinkowskyDistance
+# Minkowsky Distance
